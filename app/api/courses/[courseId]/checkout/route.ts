@@ -50,7 +50,6 @@ export async function POST(
             description: course.description!,
           },
           unit_amount: Math.round(course.price!),
-          unit_amount: Math.round(course.price!),
         },
       },
     ];
