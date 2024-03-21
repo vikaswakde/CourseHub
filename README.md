@@ -1,24 +1,26 @@
-# Watch DEMO : 
+# Watch DEMO : (How it works)
 [![CourseHub Project](https://img.youtube.com/vi/TQz6MoFk9KQ/0.jpg)](https://www.youtube.com/watch?v=TQz6MoFk9KQ)
 
 
 
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
+This is a [Next.js](https://nextjs.org/) project 
 ## Getting Started
 
-First, run the development server:
+* First, setup your ```.env``` file from ```.env-sample```
+
+* Second, Install the necessary dependencies : 
+```bash
+npm init
+```
+
+* Third, run the development server:
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open localhost on your  browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
